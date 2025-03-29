@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759526273538",
+    "project_id": "trashmorph-5c34e",
+    "storage_bucket": "trashmorph-5c34e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759526273538:android:7c703c3302fe3469e8ed1b",
+        "android_client_info": {
+          "package_name": "com.example.trashmorph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcpxtIrfXF37MPEb5Me4ugV4f-P6EtJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

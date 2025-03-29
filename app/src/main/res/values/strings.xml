@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TrashMorph</string>
+    <string name="hello">Hello</string>
+    <string name="think_out_of_trash_recycle">Think Out of Trash... RECYCLE!!</string>
+    <string name="user">User!</string>
+    <string name="decorative_art">Decorative Art</string>
+    <string name="useful_products">Useful Products</string>
+    <string name="recycled_products">Recycled Products</string>
+    <string name="think_out_of_trash_recyclee">Think out of trash...RECYCLE!!</string>
+    <string name="categories">Categories</string>
+    <string name="e_waste">E-Waste</string>
+    <string name="plastic">Plastic</string>
+    <string name="metal">Metal</string>
+    <string name="paper">Paper</string>
+    <string name="search_hint">search</string>
+    <string name="open_nav_drawer">Open Navigation Drawer</string>"
+    <string name="close_nav_drawer">Close Navigation Drawer</string>
+    <string name="home">home\n</string>
+    <string name="Home">Homee\n</string>
+    <string name="Homee">Home\n</string>"
+</resources>
